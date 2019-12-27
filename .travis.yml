@@ -10,3 +10,4 @@ branches:
 deploy:
   provider: heroku
   api_key: $APIKEY
+  app: dynamic-web-site

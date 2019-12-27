@@ -9,4 +9,4 @@ branches:
     - master
 deploy:
   provider: heroku
-  api_key: 9fca0999-be41-4c82-a4d6-49acca4e6d43
+  api_key: $APIKEY
